@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1058950509115",
+    "firebase_url": "https://delivrer-107b2.firebaseio.com",
+    "project_id": "delivrer-107b2",
+    "storage_bucket": "delivrer-107b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058950509115:android:b2330ef82a1b71ad51e21e",
+        "android_client_info": {
+          "package_name": "com.thuha.delivrer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058950509115-3b2siupr0kd5a7fgb4pla7cml8vt6h5a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thuha.delivrer",
+            "certificate_hash": "75400786d9e1eb192a441a8479d0656416e07eb4"
+          }
+        },
+        {
+          "client_id": "1058950509115-nmgteknvvqjtkosj9nai0gd41tbqgmru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZeSXlbocUi_p8f-j9-V-9qHrsMoY6pEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058950509115-nmgteknvvqjtkosj9nai0gd41tbqgmru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
